@@ -13,12 +13,7 @@
     "shim"
   ],
   "license": "MIT",
-  "ignore": [
-    "**",
-    "!/build/**",
-    "!/bower.json",
-    "!/README*"
-  ],
+  "ignore": [],
   "main": [
     "./build/mediaelement-and-player.js",
     "./build/mediaelementplayer.css"
